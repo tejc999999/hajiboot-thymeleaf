@@ -1,0 +1,7 @@
+---
+applications:
+ - name: hajiboot-thymeleaf
+   random-route: true
+   path: target/hajiboot-thymeleaf-0.0.1-SNAPSHOT.jar
+   memory: 256M
+   instances: 1
